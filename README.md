@@ -1,7 +1,3 @@
-Sure, I'll update the database section of your GitHub profile README to include PostgreSQL, MySQL, and MongoDB:
-
----
-
 # Welcome to My GitHub Profile 👋
 
 ## About Me
