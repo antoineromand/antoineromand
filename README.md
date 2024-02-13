@@ -31,5 +31,4 @@ I'm a dedicated computer science student on the verge of completing my Master's 
 ### Statistiques ###
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineromand)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineromand&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
