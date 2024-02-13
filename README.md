@@ -27,3 +27,8 @@ I'm a dedicated computer science student on the verge of completing my Master's 
 ### 📫 Contact Me
 - **LinkedIn:** [My profil](https://www.linkedin.com/in/antoine-romand)
 - **Email:** [My email](mailto:antoine.romand@epitech.eu)
+
+### Statistiques ###
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineromand)](https://github.com/anuraghazra/github-readme-stats)
+
