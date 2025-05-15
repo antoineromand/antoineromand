@@ -1,34 +1,54 @@
-# Welcome to My GitHub Profile 👋
+# 👋 Hi, I'm Antoine Romand
 
-## About Me
+🎓 Recent **Master’s graduate in Software Architecture and Development** (Epitech, July 2024), specialized in **backend development** with strong expertise in **Java (Spring Boot)** and **PostgreSQL**.  
+I'm passionate about building clean, scalable, and efficient backend systems, and currently looking for a full-time position.
 
-I'm a dedicated computer science student on the verge of completing my Master's at [Epitech](https://www.epitech.eu/), focusing on software architecture and application development, a degree recognized by the French state. My passion lies in backend development, and I am committed to expanding my skills in this area.
+## 👨‍💻 About Me
 
-### 📚 Education
-- **Master's in Computer Science** - Specialization in Software Architecture and Application Development
-  - **Institute:** Epitech
-  - **Expected Graduation:** 2024
+- 💼 Former **Backend Developer at TravelJuice**, where I led API design, system migrations, and backend performance optimizations in production environments.
+- 🌍 Based in France, open to remote or on-site roles in Sophia Antipolis, Nice, Lyon, Paris — or international opportunities (Europe, Asia).
+- ✈️ Took a short post-graduation break in Tokyo and now ready to fully commit to a new tech challenge.
 
-### 💼 Professional Experience
-- **Backend Development Intern**
-  - **Technologies Used:** Angular, NestJs, MariaDB, Docker, Jenkins
+## 💡 Tech Stack
 
-### 👨‍💻 Technical Skills
-- **Programming Languages:** JavaScript (Angular, NestJS, Node.js, TypeScript, NextJS), Java (Spring), Kafka
-- **Big Data Technologies:** Spark, Kafka, Airflow, Hive
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **DevOps:** CI/CD, Docker
+### Core Languages & Frameworks
+- **Java (Spring Boot, Gradle)**
+- **TypeScript (NestJS, Angular)**, Node.js
+- **Python**, **Go**
 
-### 🌱 Current Interests
-- Deepening knowledge in DevOps and microservices architectures.
-- Exploring the realms of big data and data engineering, particularly Spark, Kafka, and Airflow.
-- Traveling and exploring different cultures.
+### Databases
+- **Relational**: PostgreSQL, MariaDB, MySQL, ClickHouse  
+- **NoSQL**: MongoDB, Redis
 
-### 📫 Contact Me
-- **LinkedIn:** [My profil](https://www.linkedin.com/in/antoine-romand)
-- **Email:** [My email](mailto:antoine.romand@epitech.eu)
+### Architectures & Communication
+- RESTful APIs, GraphQL, WebSocket
+- Microservices, SOA, monolithic systems
+- Message brokers: **Kafka**, **Redpanda**
 
-### Statistiques ###
+### DevOps & Tooling
+- Docker, Kubernetes, Portainer
+- Git, GitHub Actions, Jenkins
+- Monitoring: Prometheus
+- Testing: JUnit, Mockito, Testcontainers
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineromand)](https://github.com/anuraghazra/github-readme-stats)
+### Development Best Practices
+- Clean Code, SOLID, Domain-Driven Design (DDD)
+- Agile (Scrum)
 
+## 📈 GitHub Activity
+
+[![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineromand&show_icons=true&theme=default)](https://github.com/antoineromand)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antoineromand)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoineromand&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔗 Connect with Me
+
+- 📧 [antoineromand@gmail.com](mailto:antoineromand@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/antoine-romand)
+- 💻 [GitHub](https://github.com/antoineromand)
+
+---
+
+_“Designing clean, scalable, and efficient backends one line at a time.”_
